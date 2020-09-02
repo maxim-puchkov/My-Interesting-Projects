@@ -68,6 +68,8 @@ https://github.com/maxim-puchkov/AR-Solver
 Implemented in __Swift__ for iPhoneOS. 
 
 ## AR World
+AR World finds and shows the closest restaurants, shops, and other locations in augmented reality.   
+![AR World Image](https://github.com/maxim-puchkov/AR-World/blob/master/Images/AR%20World.png)
 https://github.com/maxim-puchkov/AR-World  
 Implemented in __Swift__ for iPhoneOS.
 
@@ -76,9 +78,11 @@ Implemented in __Swift__ for iPhoneOS.
 
 
 ## Regular Expression Parser
+![Regex Image](https://github.com/maxim-puchkov/Regular-Expression-Parser/blob/master/Images/Regex.png)
 Implemented in __Haskell__.
 
 ## Derivative Calculator
+![Derivative Image](https://github.com/maxim-puchkov/Derivative-Parser/blob/master/Images/Derivative.png)
 Implemented in __Haskell__.
 
 ## Small Lisp Interpreter
@@ -92,13 +96,17 @@ Implemented in __Haskell__.
 
 
 ## HTTP Web Server
-__Python__ implementation of a Hypertext Transfer Protocol web server.
+__Python__ implementation of a Hypertext Transfer Protocol web server.  
+https://github.com/maxim-puchkov/HTTP-Web-Server  
+![HTTP Image](https://github.com/maxim-puchkov/HTTP-Web-Server/blob/master/Images/HTTP.png)
 
 ## SMTP Mail Server
-__Python__ implementation of a Simple Mail Transfer Protocol mail server.
+__Python__ implementation of a Simple Mail Transfer Protocol mail server.  
+https://github.com/maxim-puchkov/SMTP-Mail-Server  
+![SMTP Image](https://github.com/maxim-puchkov/SMTP-Mail-Server/blob/master/Images/SMTP.png)
 
 ## SDN Simulation
-__Python__ implementation of a __Mininet__ Software-Defined Network. The SDN Controller is programmed to determine the shortest path between each pair of switches using Dijkstra's least-cost paths algorithm. Using simulation's Command Line Interface, user can monitor simulated traffic with standard tools such as `tcpdump` and `wireshark`. Additionally, user may enter customized commands (`ifconfigs`, `arps`, etc) to view interface configuration and other related data for all hosts.  
+__Python__ implementation of a __Mininet__ Software-Defined Network. The SDN Controller is programmed to determine the shortest path between each pair of switches using Dijkstra's least-cost paths algorithm. Using simulation's Command Line Interface, user can monitor simulated traffic with standard tools such as `tcpdump` and `wireshark`. Additionally, user may enter customized commands (`ifconfigs`, `arps`, `netstats`, etc.) to view interface configuration and other related data for all hosts.  
 https://github.com/maxim-puchkov/SDN-Routing  
 ![SDN Image 1](https://github.com/maxim-puchkov/SDN-Routing/blob/master/Documents/SampleOutputs/4-Wireshark/1-ping-s1-s2-fail.png)
 ![SDN Image 2](https://github.com/maxim-puchkov/SDN-Routing/blob/master/Documents/SampleOutputs/4-Wireshark/2-ping-s1-s2-via-s4.png)
