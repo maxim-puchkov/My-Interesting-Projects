@@ -38,19 +38,19 @@ Implemented using __Heroku__ in __HTML/CSS (Bootstrap)__, __JavaScript (jQuery)_
 
 ## Linked List
 https://github.com/maxim-puchkov/Linked-List
-![Linked List Image](https://github.com/maxim-puchkov/Linked-List/blob/master/Images/Linked%20List.png)
+![Linked List Image](https://github.com/maxim-puchkov/Linked-List/blob/master/Images/Linked%20List.png)  
 Data structure implementation in __C__.
 
 ## s-talk
 Send messages between two processes on two different machines.  
 https://github.com/maxim-puchkov/s-talk  
-![s-talk Image](https://github.com/maxim-puchkov/s-talk/blob/master/assignment2/Images/S-Talk.png)
+![s-talk Image](https://github.com/maxim-puchkov/s-talk/blob/master/assignment2/Images/S-Talk.png)  
 Implemented in __C__.
 
 ## OS Process Simulation
 Simulation of interprocess communication. User can create, fork, kill processes and send messages between them.
 https://github.com/maxim-puchkov/OS-Process-Simulation  
-![OS Proccess Simulation Image](https://github.com/maxim-puchkov/OS-Process-Simulation/blob/master/Images/OS%20Process%20Simulation.png)
+![OS Proccess Simulation Image](https://github.com/maxim-puchkov/OS-Process-Simulation/blob/master/Images/OS%20Process%20Simulation.png)  
 Implemented in __C__.
 
 
@@ -63,26 +63,32 @@ https://github.com/maxim-puchkov/JPEG-Image-Compression
 Implemented in __C++__.
 
 ## AR Solver
-Recognizing, converting, simplifying, canonicalizing, and evaluating Mathematical Expressions in Augmented Reality.
-https://github.com/maxim-puchkov/AR-Solver
+Recognizing, converting, simplifying, canonicalizing, and evaluating Mathematical Expressions in Augmented Reality.  
+https://github.com/maxim-puchkov/AR-Solver  
 Implemented in __Swift__ for iPhoneOS. 
 
 ## AR World
 AR World finds and shows the closest restaurants, shops, and other locations in augmented reality.   
-![AR World Image](https://github.com/maxim-puchkov/AR-World/blob/master/Images/AR%20World.png)
-https://github.com/maxim-puchkov/AR-World  
-Implemented in __Swift__ for iPhoneOS.
+![AR World Image](https://github.com/maxim-puchkov/AR-World/blob/master/Images/AR%20World.png)  
+https://github.com/maxim-puchkov/AR-World   
+Implemented in __Swift__ for iPhoneOS.  
 
 
 
 
 
 ## Regular Expression Parser
-![Regex Image](https://github.com/maxim-puchkov/Regular-Expression-Parser/blob/master/Images/Regex.png)
+Search for matching regular expression patterns in text.  
+Find regex `ab*c` in strings `"a"`, `"ac"`, and `"abbc"`:
+![Regex Image](https://github.com/maxim-puchkov/Regular-Expression-Parser/blob/master/Images/Regex.png)  
+https://github.com/maxim-puchkov/Regular-Expression-Parser  
 Implemented in __Haskell__.
 
 ## Derivative Calculator
-![Derivative Image](https://github.com/maxim-puchkov/Derivative-Parser/blob/master/Images/Derivative.png)
+Parse and compute function derivatives with respect to a given variable.  
+Calculate derivative of `2*x^2 + 3*x + 4`, `5*x + 6`, and `x` with respect to variable `x` and derivative of `x` with respect to variable `y`:
+![Derivative Image](https://github.com/maxim-puchkov/Derivative-Parser/blob/master/Images/Derivative.png)  
+https://github.com/maxim-puchkov/Derivative-Parser  
 Implemented in __Haskell__.
 
 ## Small Lisp Interpreter
